@@ -1,0 +1,78 @@
+{
+    "create": {
+        "account": {
+            "name": "Paulo Cintura",
+            "email": "paulo@cintura.com.br",
+            "cpf": "52778015299"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": "79,99"
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Paulo Cintura",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    },
+    "duplicate": {
+        "account": {
+            "name": "Professor Raimundo",
+            "email": "raimundo@professor.com.br",
+            "cpf": "54428483015"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Professor Raimundo",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    },
+    "search": {
+        "account": {
+            "name": "Zé Bonitinho",
+            "email": "ze@bonitinho.com.br",
+            "cpf": "03621377816"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Zé Bonitinho",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    },
+    "remove": {
+        "account": {
+            "name": "Dona Catifunda",
+            "email": "dona@catifunda.com.br",
+            "cpf": "50477778208"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Dona Catifunda",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    }
+}

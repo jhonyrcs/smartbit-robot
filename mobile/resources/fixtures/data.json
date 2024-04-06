@@ -1,0 +1,42 @@
+{
+    "login": {
+        "account": {
+            "name": "Nerso da Capetinga",
+            "email": "nerso@capetinga.com",
+            "cpf": "07048055022"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Nerso da Capetinga",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    },
+    "update": {
+        "account": {
+            "name": "Galeão Cumbica",
+            "email": "galeao@cumbica.com",
+            "cpf": "54071883090",
+            "weight": 80,
+            "height": 170
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Galeão Cumbica",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    }
+}
