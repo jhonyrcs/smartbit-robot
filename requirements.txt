@@ -5,3 +5,4 @@ robotframework-appiumlibrary @ git+https://github.com/serhatbolsu/robotframework
 robotframework-browser==18.2.0
 robotframework-jsonlibrary==0.5
 robotframework-requests==0.9.6
+python_dotenv==1.0.1
